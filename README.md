@@ -1,6 +1,6 @@
 # BWWalker
 
-A custom subclass of Wordpress' Walker_Nav_Menu class that helps developers to use Bootstrap 4 navbar inside Wordpress.
+A custom subclass of Wordpress' Walker class that helps developers to use Bootstrap 4 navbar inside Wordpress.
 
 
 This class was created using the Wordpress 4.9.7 & Bootstrap 4.1.2.
